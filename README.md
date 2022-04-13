@@ -29,7 +29,7 @@ It is important to note that the number of movies that the user has watched in t
 
 For each type of approach we test the models for different numbers of recommendations that are given to the user, and then try to choose the best number based on the performance measures above. Here it is important to understand that according to the way the recall is calculated, the more recommendations we give, the higher will be the recall. Therefore there should be a compromise between this and the number of recommendations given, because it would not make sense to suggest too many movies to the user. After having the selected number of recommendation for each model we consecutively train and test all the models trough a sliding window to get the final results.
 
-Due to githube storage limitations, you can access the Flixer data here:
+Due to github storage limitations, you can access the Flixer data here:
 
 [ratings.csv](https://docs.google.com/spreadsheets/d/1ImLU_6lI79Ia4Bg5AfgWCs28tiSXpWqP/edit?usp=sharing&ouid=118296552415211719750&rtpof=true&sd=true)
 
