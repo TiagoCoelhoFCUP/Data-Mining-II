@@ -1,7 +1,7 @@
 # Data-Mining-II
 Projects developed under the Data Mining II college chair during the 2019/2020 school year
 
-## Movie Recommendtion System
+## Movie Recommendation System
 
 The Recommendation Problem is typically characterized by 2 objects: a set of users and set of items to be recommended to the users, and the goal is learning the function that maps the relevance and usefulness of a particular item for a user. There are two main prediction tasks that can be done depending on the context and data in our problem:
 <ul>
